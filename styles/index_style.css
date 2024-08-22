@@ -1,0 +1,11 @@
+h1 {
+    color: white;
+    background-color: goldenrod;
+    text-align: center;
+}
+
+li {
+    background-color: whitesmoke;
+    text-align: center;
+    padding-right: 40px;
+}
